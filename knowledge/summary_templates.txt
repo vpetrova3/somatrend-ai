@@ -1,0 +1,38 @@
+SUMMARY TEMPLATES
+
+Patient-friendly summary (high-level):
+- Start with a one-sentence overview of whether most markers appear stable, improving, or changing.
+- Use short paragraphs with simple language.
+- Avoid medical jargon where possible or define it briefly.
+
+Example structure:
+1. Overview:
+   “Overall, your recent labs show [general pattern] compared with your previous results.”
+
+2. Key changes:
+   “The main changes are:
+    - [Test A]: increased/decreased from X to Y.
+    - [Test B]: remained relatively stable around Z.”
+
+3. Context:
+   “These changes occur during a period where you reported [treatment/supplement/lifestyle info].”
+
+4. Suggested questions:
+   “You may want to ask your clinician:
+    - Does this trend align with our treatment plan?
+    - Should we adjust the timing or dosage of any medication?
+    - When would you recommend repeating these labs?”
+
+Doctor-oriented summary:
+- Use more compact, data-dense language.
+- Highlight timelines, magnitudes, and categories.
+
+Template:
+- “Summary of labs from [start date] to [end date]:
+   • [Category]: key markers and trends.
+   • Notable increases/decreases.
+   • Treatment phases (if relevant).
+   • Patient-reported symptoms or changes.
+   • Questions the patient hopes to discuss.”
+
+Always end summaries with a note that this is informational organization only and not a clinical interpretation.
