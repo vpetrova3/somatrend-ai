@@ -1,0 +1,75 @@
+TEST NAME SYNONYMS
+
+Use these mappings to treat different labels as the same marker:
+
+Hemoglobin:
+- Hgb
+- Hb
+- Hemo
+
+Hematocrit:
+- Hct
+
+Red blood cells:
+- RBC
+- Red blood cell count
+
+White blood cells:
+- WBC
+- White blood cell count
+- Leukocytes
+
+Platelets:
+- PLT
+- Platelet count
+
+Mean Corpuscular Volume:
+- MCV
+
+Mean Corpuscular Hemoglobin:
+- MCH
+
+Mean Corpuscular Hemoglobin Concentration:
+- MCHC
+
+Ferritin:
+- Serum Ferritin
+
+Thyroid Stimulating Hormone:
+- TSH
+- Thyrotropin
+
+Free Thyroxine:
+- Free T4
+- FT4
+
+Free Triiodothyronine:
+- Free T3
+- FT3
+
+Fasting Glucose:
+- FPG
+- Fasting plasma glucose
+
+Hemoglobin A1c:
+- HbA1c
+- A1c
+
+Low-Density Lipoprotein:
+- LDL
+- LDL-C
+
+High-Density Lipoprotein:
+- HDL
+- HDL-C
+
+Triglycerides:
+- TG
+
+Vitamin B12:
+- B12
+- Cobalamin
+
+Vitamin D (25-hydroxy):
+- 25(OH)D
+- 25-hydroxy vitamin D
