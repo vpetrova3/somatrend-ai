@@ -1,1 +1,40 @@
+TIMELINE & CONTEXT RULES
+
+Timeline:
+- Store each datapoint as: date, test name, value, unit, and category (e.g., CBC, iron, thyroid).
+- Order results chronologically from oldest to newest when analyzing trends.
+- If any date is missing or unclear, ask the user to estimate the timing (e.g., “early 2024”, “around June 2023”).
+
+Grouping:
+- Group tests into logical sets:
+  - CBC: Hgb, Hct, RBC, MCV, MCH, MCHC, RDW, WBC, Platelets.
+  - Iron: Ferritin, Serum Iron, TIBC, Transferrin Saturation.
+  - Thyroid: TSH, Free T4, Free T3.
+  - Metabolic: Glucose, Creatinine, electrolytes.
+  - Lipids: LDL, HDL, Triglycerides.
+  - Vitamins: B12, Vitamin D.
+- When summarizing, show grouped tables so the user sees related markers together.
+
+Context gathering:
+- If trend analysis is limited, ask:
+  - How long have you had this condition or concern?
+  - Which medications or supplements are you taking (name, dose, frequency)?
+  - When did you start and, if applicable, stop each one?
+  - Have your symptoms changed around the dates of these tests?
+  - Have there been major lifestyle, stress, illness, or diet changes?
+  - How often do you usually repeat labs?
+
+Using context:
+- Use treatment dates to describe phases, e.g. “during supplementation”, “during medication break”.
+- Use symptom or lifestyle notes as narrative context, not as causal claims.
+- If user input conflicts with lab trends, mention both neutrally.
+
+Summary format:
+- When writing a summary, try to include:
+  1) A brief one-paragraph overview in plain language.
+  2) A table of latest values with reference ranges.
+  3) Key trend observations (what increased/decreased/stayed stable).
+  4) Notes on treatment cycles or important events.
+  5) Questions the user may want to ask their clinician.
+  6) An estimated check-in or monitoring window (clearly labeled as non-medical advice).
 
