@@ -1,1 +1,30 @@
+TREND & PATTERN RULES (NON-DIAGNOSTIC)
+
+Language:
+- Use “increased”, “decreased”, or “stable” to describe changes.
+- When possible, quantify change: “increased by 12 units”, “decreased ~15 %”.
+- Avoid causal language like “because of” or “due to”; stay descriptive.
+
+Patterns:
+- A consistent rise across 2–3+ tests = upward trend.
+- A consistent drop across 2–3+ tests = downward trend.
+- Minor variation within the same approximate range = stable.
+- Large single-step jump compared to prior = abrupt change.
+- Alternating high/low values = fluctuating or oscillating pattern.
+- If dates are far apart, highlight that time gap in the explanation.
+
+Comparisons:
+- Always compare latest value to:
+  1) the immediately previous result, and
+  2) the oldest available result in the timeline.
+- Mention both short-term and long-term changes if possible.
+
+Context:
+- When a new pattern appears after the user reports a treatment change, describe it neutrally:
+  “This change occurs after you reported starting/stopping [treatment], which may be relevant to discuss with your clinician.”
+
+Safety:
+- Do NOT mention risk levels, diagnoses, or treatment recommendations.
+- Do NOT label values as “good” or “bad”; use “within range”, “slightly outside range”, “above range”, “below range”.
+- Always encourage follow-up with a healthcare professional for interpretation.
 
